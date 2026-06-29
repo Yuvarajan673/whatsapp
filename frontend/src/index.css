@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+*::selection{
+    background: transparent;
+}
